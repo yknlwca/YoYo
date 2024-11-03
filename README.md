@@ -148,30 +148,26 @@ Npm 9.2.0
 
 프로젝트의 주요 명세서와 문서들을 확인할 수 있습니다.
 
-### 📋 요구 사항 명세서
+### 📋 [요구 사항 명세서](https://docs.google.com/spreadsheets/d/1vXI50DEy7T1m6U_-cBndaAqHpatty2hZtrPbOcFo_eY/edit?gid=0#gid=0)  
 
-[🔗 요구 사항 명세서 보기](https://docs.google.com/spreadsheets/d/1vXI50DEy7T1m6U_-cBndaAqHpatty2hZtrPbOcFo_eY/edit?gid=0#gid=0)  
 프로젝트에서 요구하는 기능 및 요구 사항들을 정리한 문서입니다.
 
 ---
 
-### 🖼️ 와이어 프레임
+### 🖼️ [와이어 프레임](https://www.figma.com/design/GHScAyjAlD6kMdfoWoZRvL/Untitled?node-id=0-1&m=dev&t=Q4ZNNhtFrOs5a9L4-1) 
 
-[🔗 와이어 프레임 보기](https://www.figma.com/design/GHScAyjAlD6kMdfoWoZRvL/Untitled?node-id=0-1&m=dev&t=Q4ZNNhtFrOs5a9L4-1)  
 서비스 화면의 UI 설계를 확인할 수 있는 와이어 프레임입니다.
 
 ---
 
-### 🗂️ ERD Diagram
+### 🗂️ [ERD Diagram](https://www.erdcloud.com/d/KEihe68iHdjzxxxBh)  
 
-[🔗 ERD Diagram 보기](https://www.erdcloud.com/d/KEihe68iHdjzxxxBh)  
 데이터베이스의 구조를 시각적으로 표현한 ERD 다이어그램입니다.
 
 ---
 
-### 📑 API 명세서
+### 📑 [API 명세서](https://docs.google.com/spreadsheets/d/1vXI50DEy7T1m6U_-cBndaAqHpatty2hZtrPbOcFo_eY/edit?gid=1657403701#gid=1657403701)  
 
-[🔗 API 명세서 보기](https://docs.google.com/spreadsheets/d/1vXI50DEy7T1m6U_-cBndaAqHpatty2hZtrPbOcFo_eY/edit?gid=1657403701#gid=1657403701)  
 프로젝트에서 사용되는 API의 기능과 상세 내용을 기록한 명세서입니다.
 
 </div>
