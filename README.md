@@ -146,8 +146,6 @@ Npm 9.2.0
 
 <div align="center">
 
-프로젝트의 주요 명세서와 문서들을 확인할 수 있습니다.
-
 ### 📋 [요구 사항 명세서](https://docs.google.com/spreadsheets/d/1vXI50DEy7T1m6U_-cBndaAqHpatty2hZtrPbOcFo_eY/edit?gid=0#gid=0)  
 
 프로젝트에서 요구하는 기능 및 요구 사항들을 정리한 문서입니다.
